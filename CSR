@@ -1,3 +1,14 @@
+||https://csgo-case.com/data/JS/external/bootstrap-notify.min.js
+||https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.3/css/bootstrap.min.css
+||https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.3/js/bootstrap.min.js
+||https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+||https://fonts.googleapis.com/css?family=Russo+One
+||https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css
+||https://csgo-case.com/data/css/main_new.css
+||https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js
+||https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js
+||https://csgo-case.com/data/JS/google_analytics.js
+
 csgo-case.com###left_bar
 csgo-case.com##.alert-info
 csgo-case.com###highest_winners
